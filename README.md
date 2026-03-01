@@ -44,6 +44,12 @@ Let us now discuss how each of these model works :
 
    Draws a decision boundary – It finds a line that best separates the two classes (e.g., spam vs. not spam).
 
+
+👨‍💻 Author
+
+Ashutosh Tare | Aspiring ML Engineer | Data Science Enthusiast
+
+
    Applies a threshold – If probability > 0.5 → predict YES, if < 0.5 → predict NO.
 
    Learns by minimizing errors – It adjusts its internal weights during training to make the most correct predictions possible.
